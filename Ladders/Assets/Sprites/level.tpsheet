@@ -1,0 +1,37 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:4bcb6e6018143761bb9a887b19a6f3a6:5afdf94b10b4d97aaa02f730bbba9875:ac4d035439da7821a5fcc49ec5486909$
+#
+:format=40300
+:texture=level.png
+:size=128x256
+:pivotpoints=enabled
+:borders=disabled
+
+brick-break0;1;225;30;30; 0.5;0.5; 0;0;0;0
+brick-break1;33;225;30;30; 0.5;0.5; 0;0;0;0
+brick-break2;65;225;30;30; 0.5;0.5; 0;0;0;0
+brick-break3;97;225;30;30; 0.5;0.5; 0;0;0;0
+brick-break4;1;193;30;30; 0.5;0.5; 0;0;0;0
+brick-break5;33;193;30;30; 0.5;0.5; 0;0;0;0
+brick-break6;65;193;30;30; 0.5;0.5; 0;0;0;0
+brick-fill0;97;193;30;30; 0.5;0.5; 0;0;0;0
+brick-fill1;1;161;30;30; 0.5;0.5; 0;0;0;0
+brick-fill2;33;161;30;30; 0.5;0.5; 0;0;0;0
+brick-fill3;65;161;30;30; 0.5;0.5; 0;0;0;0
+brick-fill4;97;161;30;30; 0.5;0.5; 0;0;0;0
+brick-fill5;1;129;30;30; 0.5;0.5; 0;0;0;0
+brick-fill6;1;225;30;30; 0.5;0.5; 0;0;0;0
+brick-solid;33;129;30;30; 0.5;0.5; 0;0;0;0
+ladder-30x30;65;129;30;30; 0.5;0.5; 0;0;0;0
+pickup;97;129;30;30; 0.5;0.5; 0;0;0;0
+rope;1;97;30;30; 0.5;0.5; 0;0;0;0
+shoot0;33;97;30;30; 0.5;0.5; 0;0;0;0
+shoot1;65;97;30;30; 0.5;0.5; 0;0;0;0
+shoot2;97;97;30;30; 0.5;0.5; 0;0;0;0
+shoot3;1;65;30;30; 0.5;0.5; 0;0;0;0
+shoot4;33;65;30;30; 0.5;0.5; 0;0;0;0
